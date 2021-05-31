@@ -9,8 +9,12 @@ body {
 }
 
 nav {
+  /* display: grid; */
+  /* padding: 12px 25px 35px 0; */
+  /* grid-template-columns: repeat( 2, 1fr);
+  grid-template-rows: 1fr; */
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   background: #2B2B2B;
   color: #999999;
 }
@@ -43,6 +47,17 @@ h2 {
   width: 35%;
 }
 
+.nav-section {
+  width: 75%;
+  align-self: flex-end;
+  margin: 2em;
+  font-size: 1.65em;
+}
+
+.title-login {
+  display: flex;
+  flex-direction: column;
+}
 
 
 
