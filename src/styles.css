@@ -4,7 +4,6 @@ html {
 }
 
 body {
-  border: solid red 1px;
   background-color: #EFEFEF;
 }
 
@@ -36,6 +35,7 @@ h1 {
 
 h2 {
   color: #4D4D4D;
+  font-size: 2.5em;
 }
 
 h3 {
@@ -47,16 +47,16 @@ button {
 }
 
 img {
-  height: 10em;
-  width: 17em;
+  height: 40%;
+  width: 100%;
 }
 
 .nav-buttons {
   padding: 2px;
   justify-content: space-between;
   /* align-content: flex-end; */
-   flex-direction: row;
-   align-self: flex-end;
+  flex-direction: row;
+  align-self: flex-end;
   width: 35%;
 }
 
@@ -72,7 +72,26 @@ img {
   flex-direction: column;
 }
 
+.card {
+  width: 380px;
+  height: 480px;
+  box-shadow: 5px 15px 24px 2px rgba(10, 10, 15, 0.33);
+  background-color: #FFFFFF;
+  color: #999999;
+}
 
+.card-body {
+  margin: 1px;
+}
+
+.link {
+  background-color: #EFEFEF;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: 8px;
+  margin-right: 8px;
+  height: 100%;
+}
 
 
 /* MEDIA QUERIES BELOW */
