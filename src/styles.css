@@ -38,9 +38,17 @@ h2 {
   color: #4D4D4D;
 }
 
+h3 {
+  color: #26B4FF;
+}
 button {
   width: 20px;
   height: 20px;
+}
+
+img {
+  height: 10em;
+  width: 17em;
 }
 
 .nav-buttons {
