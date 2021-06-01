@@ -5,6 +5,9 @@ Using html and css this comp attempts to re-create a provided comp with some lib
 
 This comp is responsive to change in screen size
 
+## GH pages
+
+- [GH pages deployment](https://bigbike96.github.io/static-comp-challenge/src/index.html)
 
 - This static comp
 ![giphy static-comp](https://user-images.githubusercontent.com/60282216/120251353-8a5c5580-c23e-11eb-919c-f0d9c7377ced.gif)
