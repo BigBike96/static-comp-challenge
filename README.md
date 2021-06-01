@@ -7,6 +7,8 @@ This comp is responsive to change in screen size
 
 
 - This static comp
+![giphy static-comp](https://user-images.githubusercontent.com/60282216/120251353-8a5c5580-c23e-11eb-919c-f0d9c7377ced.gif)
+
 
 
 - Comp to 'match'
